@@ -1,4 +1,4 @@
-1| Service for travel agency
+Service for travel agency
 Brief description of the system As part of the project, 
 create the system, that allows you to search for tripsby given criteria and their purchase.
 
